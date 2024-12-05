@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntervaloNumerosPrimos</string>
+    <string name="txtTitulo">Verificação de números primos em um intervalo</string>
+    <string name="n1">Insira um número entre 0 e 50</string>
+    <string name="n2">Insira outro número entre 0 e 50</string>
+    <string name="btnCalcular">Calcular</string>
+</resources>
